@@ -2,7 +2,7 @@
 
 If you want to save files to the cloud, you can use AWS S3. This is a quick guide to get you started.
 
-![AWS S3](https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2019/02/28/aws_logo_smile_1200x630.png)
+![AWS S3](https://fathomtech.io/blog/using-aws-s3-and-cloudfront-for-fast-static-web-sites/amazon-s3.png)
 
 ## What is AWS S3?
 
